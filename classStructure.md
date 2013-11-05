@@ -101,7 +101,7 @@ Working Diagram
   - Visualizers
     - Analyzer Outputs (_AnalyzerOutput1_, _AnalyzerOutput2_, _AnalyzerOutput3_) --> Pushed to Specific Visualizer Groups
       - Paths of Analyzer Outputs to Visualizer Groups:
-        - _CuratorOutput1_ or _CuratorOutput2_
+        - _CuratorOutput1_ or _CuratorOutput2_ --> #
         - _AnalyzerOutput1_ --> $ 
         - _AnalyzerOutput2_ --> Q
         - _AnalyzerOutput3_ --> ❤

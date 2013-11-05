@@ -15,9 +15,19 @@ Goals
     - _Visualizer_
       - Using the Analyzers' outputs, visualize the multiple methods and understand through comparison if there is a more accurate indicator of earthquake alarms.
       - Understand the models more accurately to develop a clear mathematical understanding of the models, parameters, and produced outputs.  
+  - **S.M.A.R.T. Goals**
+    - [**S**] Specific: To Produce a Final, More Accurate Model of Earthquake Alarm Errors Using B.G. Luen's Ph.D [Dissertation](https://github.com/j-zhang/analyzers/blob/master/resources/luen_paper.pdf) & [Presentation](http://www.stat.berkeley.edu/%7Ebradluen/slides.pdf) as a Comparison & Starting Point
+    - [**M**] Measurable: With 3 Curator Groups, 3 Analyzer Groups, & 4 Visualizer Groups, We Want to Understand all Data & Models In Order to Compare Various Ways of Examinng Earthquake Alarm Error Data
+    - [**A**] Attainable: Break Down Project into Segements That Can Be Achieved In One Week Increments
+    - [**R**] Relevant: Stay on Track and Focused on End Result
+    - [**T**] Time-Bound: Weekly Updates on Tuesday Mornings Of Each Group's Progress By Presenters & Weekly Meetings with _ALL_ Presenters to Understand Progress
+    - **S.M.A.R.T._E_._R_. Goals**
+      - [**E**] Evaluate: Curators Will Round Out the Process of Keeping **ALL** Groups Accountable with Meeting Expected Results and Reproducibility Requirements
+      - [**R**] Re-Evaluate: Presenters Will Work Together to Keep Eachother On The Same Page and On Task With Weekly Meetings & the Final Compilation of the Project Entirity
 
-Horizontal Sub-Groups
+Horizontals & Divided Sub-Groups
 -----
+**Note**: Presenters will be the group contacts between sub-groups.  These contacts are **bolded** within their respective groups.
 - Curators
   - **A**, Cache Money ( [Repository]() & [S.M.A.R.T Goals]() )
     - Arif Ali                ( [arifyali](https://github.com/arifyali) )
@@ -76,35 +86,37 @@ Horizontal Sub-Groups
     - Christina HO            ( [chocoho](https://github.com/chocoho) )
     - Jinsoo LEE              ( [annyeongjs](https://github.com/annyeongjs) )
 
-- **UNASSIGNED INDIVIDUALS**: Someone please contact them and get them in the loop/working within a group.
+- **UNASSIGNED INDIVIDUALS**: Someone please contact them and get them in the loop/working within a group.  Please make a new issues with the group they will be working in.
     - Vincent CANLAS          ( [vcanlas](https://github.com/vcanlas) )
     - Kuanwei TSENG           ( [kt0009](https://github.com/kt0009) )
 
-**Note**: Presenters will be the group contacts between sub-groups.  These contacts are **bolded** within their respective groups.
-
 Working Diagram
 -----
+- Step 1
   - Curators:
-    - C --> B --> A --> Curator Output
-      - C: Scrape USGS Data & Prepare Simple Data Frame
-      - B: Cleaning Data and Formating as a `.csv` File
-      - A: Translating `.csv` File into a Necessary `.ppx` Format to be Run Through the `ETAS` Package in R, as well as Cleaning Data to exclude Not Applicable (N/A) Values
-    - Curator Output Includes Two Files: 
-      - A `.csv` File --> _CuratorOutput1_
-      - A `.ppx` File --> _CuratorOutput2_
+      - C --> B --> A --> Curator Output
+        - C: Scrape USGS Data & Prepare Simple Data Frame
+        - B: Cleaning Data and Formating as a `.csv` File
+        - A: Translating `.csv` File into a Necessary `.ppx` Format to be Run Through the `ETAS` Package in R, as well as Cleaning Data to exclude Not Applicable (N/A) Values
+      - Curator Output Includes Two Files: 
+        - `.csv` File --> _CuratorOutput1_
+        - `.ppx` File --> _CuratorOutput2_
+- Step 2
   - Analyzers:
-    - Curator Output --> Analyzer Sub-Groups 1, 2, 3
-      - 1: Analyzing Curator Output through the MDA Model, Using R --> Outputing Information as _AnalyzerOutput1_
-      - 2: Analyzing Curator Output through the ETAS Model, Using R Package `SAPP` and `PtProcess` --> Outputing Information as _AnalyzerOutput2_
-      - 3: Analyzing Curator Output through the ETAS Model, Using R Package `SAPP` and `PtProcess` --> Outputing Information as _AnalyzerOutput3_
-    - Analyzer Outputs: Output1, Output2, Output3
+      - Curator Output --> Analyzer Sub-Groups 1, 2, 3
+        - 1: Analyzing Curator Output through the MDA Model, Using R --> Outputing Information as _AnalyzerOutput1_
+        - 2 & 3: Combined objectives Separated between the Two Groups ( A Detailed Needs Assement Can Be Found [Here](https://github.com/stat157/background/issues/26) )
+          - 2: Analyzing Curator Output through the ETAS Model, Using R Package `SAPP` and `PtProcess` --> Outputing Information as _AnalyzerOutput2_
+          - 3: Analyzing Curator Output through the ETAS Model, Using R Package `SAPP` and `PtProcess` --> Outputing Information as _AnalyzerOutput3_
+      - Analyzer Outputs: _AnalyzerOutput1_, _AnalyzerOutput2_, _AnalyzerOutput3_
+- Step 3
   - Visualizers
-    - Analyzer Outputs (_AnalyzerOutput1_, _AnalyzerOutput2_, _AnalyzerOutput3_) --> Pushed to Specific Visualizer Groups
-      - Paths of Analyzer Outputs to Visualizer Groups:
-        - _CuratorOutput1_ or _CuratorOutput2_ --> #
-        - _AnalyzerOutput1_ --> $ 
-        - _AnalyzerOutput2_ --> Q
-        - _AnalyzerOutput3_ --> ❤
+      - Analyzer Outputs (_AnalyzerOutput1_, _AnalyzerOutput2_, _AnalyzerOutput3_) --> Pushed to Specific Visualizer Groups
+        - Paths of Analyzer Outputs to Visualizer Groups:
+          - _CuratorOutput1_ or _CuratorOutput2_ --> #
+          - _AnalyzerOutput1_ --> $ 
+          - _AnalyzerOutput2_ --> Q
+          - _AnalyzerOutput3_ --> ❤
 
 What the Visualizers Will Be Examining & Expected Results
 -----
@@ -117,22 +129,9 @@ What the Visualizers Will Be Examining & Expected Results
     - Compare _VisualOutput1_ with _VisualOutput2_
   - Q: 
     - Examine & Create a Visual Representation of _AnalyzerOutput2_ --> Create _VisualOutput2_
-    - Put Together A Comprehensive Understanding of the Epidemic-Type Aftershock Sequence (ETAS) Model
-    - Examining the ETAS models defined from the R packages `SAPP` & `PtProcess` versus the MDA model.
+    - Put Together A Comprehensive Understanding of the Epidemic-Type Aftershock Sequence (ETAS) Model, Preliminary Understand `ETAS` R Package
   - ❤: 
     - Examine & Create a Visual Representation of _AnalyzerOutput3_ --> Create _VisualOutput3_
     - Compare _VisualOutput2_ with _VisualOutput3_
 
 **Note**: To Keep Ourselves in Check, We will be Reappropriating Those involved with the Curator Process with the Checking of Processes & Individuals to Hold Individuals Accountable for Reproducibilty Errors
-
-S.M.A.R.T. Goals
------
-  - Specific
-  - Measurable
-  - Attainable
-  - Relevant
-  - Time-Bound
-
-**S.M.A.R.T._E_._R_. Goals**
-  - Evaluate
-  - Re-Evaluate

@@ -1,4 +1,4 @@
-presentation
+statistics 157, earthquake data project
 =====
 
 Goals

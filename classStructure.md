@@ -47,7 +47,7 @@ Horizontals & Divided Sub-Groups
     - **David WANG**              ( [davidwang001](https://github.com/davidwang001) )
 
 - Analyzers
-  - **1**  ( [Repository]() & [S.M.A.R.T Goals]() )
+  - **1**  ( [Repository](https://github.com/stat157/analyzers) & [S.M.A.R.T Goals](https://github.com/stat157/background/issues/13) )
     - Teresa TENFELDER        ( [teresita](https://github.com/teresita) )
     - Khoa TRAN               ( [kqdtran](https://github.com/kqdtran) )
     - **Roland SHEN**              ( [rolandshen](https://github.com/rolandshen) )

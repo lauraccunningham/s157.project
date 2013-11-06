@@ -73,7 +73,7 @@ Horizontals & Divided Sub-Groups
     - **Brian LIOU**              ( [brianliou](https://github.com/brianliou) )
     - Tinghui "Eric" TSAI     ( [wxadqcze](https://github.com/wxadqcze) )
     - Joy CHEN                ( [joyyqchen](https://github.com/joyyqchen) )
-    - Sam KIRSCHNER           ( [dr.meow](https://github.com/dr.meow) )
+    - Sam KIRSCHNER           ( [drmeow](https://github.com/drmeow) )
   - **Q, Quakers** ( [S.M.A.R.T Goals](https://github.com/SunnySunnia/TheQuakers/blob/master/README.md) )
     - **Carl SHEN**               ( [carlshan](https://github.com/carlshan) )
     - He MA                   ( [sunnymh](https://github.com/sunnymh) )

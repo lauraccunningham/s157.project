@@ -57,6 +57,7 @@ Horizontals & Divided Sub-Groups
     - Disi KOA                ( [gnolnait](https://github.com/gnolnait) )
     - John RISKO              ( [johnrisko](https://github.com/johnrisko) )
     - Tay SHIN                ( [taywon](https://github.com/taywon) )
+    - Arif Ali(curator)
   - **3** ( [S.M.A.R.T Goals](https://github.com/stat157/background/issues/23) )
     - Bonghyun KIM            ( [bonghyun5](https://github.com/bonghyun5) )
     - Yee Tung "Alice" MAN    ( [amx01](https://github.com/amx01) )

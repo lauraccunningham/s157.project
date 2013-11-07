@@ -46,21 +46,19 @@ Horizontals & Divided Sub-Groups
     - Reena SHAH              ( [reenashah](https://github.com/reenashah) )
     - Yuqi "Tristan" TAO                ( [tristantao](https://github.com/tristantao) )
     - **David WANG**              ( [davidwang001](https://github.com/davidwang001) )
-
 - _Readjustment of Curators, Post-Curation of Data Completion_
   - **Writing Team**
     - Xiaorui "Sherry" XIA (Writing Team)    ( [xsherryxia](https://github.com/xsherryxia) )
     - Theresa ANDRASFAY (Writing Team) ( [tandrasfay](https://github.com/tandrasfay) )
     - Jie ZHANG (Writing Team)( [jzhang980](https://github.com/jzhang980) )
   - **Reassigned Curator Groups**
-    - Analyzers 1: _Kimberly LE_      ( [kimberlyle](https://github.com/kimberlyle) )
-    - Analyzers 2: _Arif ALI_         ( [arifyali](https://github.com/arifyali) )
-    - Analyzers 3: _Qi ZHANG_         ( [qi-zhang](https://github.com/qi-zhang) )
-    - Visualizers #: _Timothy HOANG_    ( [timothyhoang](https://github.com/timothyhoang) ) &  _Reena SHAH_       ( [reenashah](https://github.com/reenashah) )
+    - Analyzers 1: _Kimberly LE_ ( [kimberlyle](https://github.com/kimberlyle) )
+    - Analyzers 2: _Arif ALI_ ( [arifyali](https://github.com/arifyali) )
+    - Analyzers 3: _Qi ZHANG_  ( [qi-zhang](https://github.com/qi-zhang) )
+    - Visualizers #: _Timothy HOANG_ ( [timothyhoang](https://github.com/timothyhoang) ) &  _Reena SHAH_ ( [reenashah](https://github.com/reenashah) )
     - Visualizers $: _Yuqi "Tristan" TAO_ ( [tristantao](https://github.com/tristantao) )
-    - Visualizers Q: 
-    - Visualizers ❤: _Alisha AGRAWAL_   ( [alisha791](https://github.com/alisha791) )
-
+    - Visualizers Q: _David BARRERA_ ( [jest4pun](https://github.com/jest4pun) )
+    - Visualizers ❤: _Alisha AGRAWAL_ ( [alisha791](https://github.com/alisha791) )
 
 - Analyzers ( [Repository](https://github.com/stat157/analyzers) )
   - **1**  ( [S.M.A.R.T Goals](https://github.com/stat157/background/issues/13) )

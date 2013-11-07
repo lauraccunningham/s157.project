@@ -69,6 +69,7 @@ Horizontals & Divided Sub-Groups
     - Ashley SIA              ( [ashleysia](https://github.com/ashleysia) )
     - Raymond MA              ( [raymondma1](https://github.com/raymondma1) )
     - Yoojin JANG             ( [all4ujin](https://github.com/all4ujin) )
+    - Vincent CANLAS          ( [vcanlas](https://github.com/vcanlas) )
   - **$** ( [S.M.A.R.T Goals](https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Kirschner.Liou.Tsai) )
     - **Brian LIOU**              ( [brianliou](https://github.com/brianliou) )
     - Tinghui "Eric" TSAI     ( [wxadqcze](https://github.com/wxadqcze) )
@@ -87,7 +88,6 @@ Horizontals & Divided Sub-Groups
     - Jinsoo LEE              ( [annyeongjs](https://github.com/annyeongjs) )
 
 - **UNASSIGNED INDIVIDUALS**: Someone please contact them and get them in the loop/working within a group.  Please make a new issues with the group they will be working in.
-    - Vincent CANLAS          ( [vcanlas](https://github.com/vcanlas) )
     - Kuanwei TSENG           ( [kt0009](https://github.com/kt0009) )
 
 Working Diagram

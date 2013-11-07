@@ -40,6 +40,7 @@ Horizontals & Divided Sub-Groups
     - Theresa ANDRASFAY       ( [tandrasfay](https://github.com/tandrasfay) )
     - **Lorraine HSIAO**          ( [lorrainehsiao](https://github.com/lorrainehsiao) )
     - Jie ZHANG               ( [jzhang980](https://github.com/jzhang980) )
+    - Qi ZHANG                ( [qi-zhang](https://github.com/qi-zhang) )
   - **C**, Smile ( [S.M.A.R.T Goals](https://github.com/stat157/background/issues/25) )
     - Timothy HOANG           ( [timothyhoang](https://github.com/timothyhoang) )
     - Reena SHAH              ( [reenashah](https://github.com/reenashah) )
@@ -61,7 +62,6 @@ Horizontals & Divided Sub-Groups
     - Bonghyun KIM            ( [bonghyun5](https://github.com/bonghyun5) )
     - Yee Tung "Alice" MAN    ( [amx01](https://github.com/amx01) )
     - **Alyssa PARKER**           ( [aparker92](https://github.com/aparker92) )
-    - Qi ZHANG                ( [qi-zhang](https://github.com/qi-zhang) )
 
 - Visualizers ( [Repository](https://github.com/stat157/visualizers) )
   - **#**  ( [S.M.A.R.T Goals]() )

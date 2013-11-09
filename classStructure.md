@@ -77,7 +77,7 @@ Horizontals & Divided Sub-Groups
     - **Alyssa PARKER**           ( [aparker92](https://github.com/aparker92) )
 
 - Visualizers ( [Repository](https://github.com/stat157/visualizers) )
-  - **#**  ( [S.M.A.R.T Goals]() )
+  - **#**  ( [S.M.A.R.T Goals](https://github.com/ashleysia/TeamHASHTAG) )
     - **David LAU**               ( [davidopluslau](https://github.com/davidopluslau) )
     - Ashley SIA              ( [ashleysia](https://github.com/ashleysia) )
     - Raymond MA              ( [raymondma1](https://github.com/raymondma1) )

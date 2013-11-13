@@ -51,6 +51,7 @@ Horizontals & Divided Sub-Groups
     - Xiaorui "Sherry" XIA (Writing Team)    ( [xsherryxia](https://github.com/xsherryxia) )
     - Theresa ANDRASFAY (Writing Team) ( [tandrasfay](https://github.com/tandrasfay) )
     - Jie ZHANG (Writing Team)( [jzhang980](https://github.com/jzhang980) )
+    - Lorraine HSIAO (Writing Team) ( [lorrainehsiao](https://github.com/lorrainehsiao) )
   - **Reassigned Curator Groups**
     - Analyzers 1: _Kimberly LE_ ( [kimberlyle](https://github.com/kimberlyle) )
     - Analyzers 2: _Arif ALI_ ( [arifyali](https://github.com/arifyali) )
